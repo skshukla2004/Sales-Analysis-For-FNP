@@ -3,6 +3,7 @@
 An interactive **Sales Analysis Dashboard** built in Microsoft Excel to visualize and track key business metrics. This project turns raw sales data into actionable insights for decision-makers.
 
 ---
+![Dashboard](Dashboard.png)
 
 ## ✨ Features
 
